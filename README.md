@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [BatChit](https://github.com/Karmveerkumar951/Chat-App)
 
-- 👯 I’m looking to collaborate on [Smart_Paste](https://github.com/Karmveerkumar951/Smart_Paste)
+- 👯 I’m looking to collaborate on [BatChit](https://github.com/Karmveerkumar951/Chat-App)
 
 - 📫 How to reach me **karmveerkumar951@gmail.com**
 
